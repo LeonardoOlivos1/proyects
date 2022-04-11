@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@100&display=swap');
+body{
+    background-color: black;
+    font-family:'Roboto', sans-serif; 
+    color: white; 
+    margin: 0;
+}
+header{
+    padding: 10px;
+    display: flex;
+    justify-content: flex-end;
+    word-spacing: normal;
+}
+a{
+    border: 1px solid white;
+    background-color: black;
+    color: white;
+}
+input{
+    border-radius: 20px solid white;
+    background-color: black;
+    width: 500px;
+    padding:5px;
+    color: white;
+    margin: 10px 480px 10px 480px;
+}
+.gmail{
+   padding: 10px;
+   text-decoration: none;
+   border: transparent;
+}
+.Imagenes{
+    padding: 10px;
+    text-decoration: none;
+    border: transparent;
+ }
+#logo{
+    display: block;
+    margin-top: 60px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 350px;
+}
+.botones{
+    text-decoration: none;
+    text-align: center;
+    margin: 10px 10px 10px 10px;
+    padding: 5px;
+}
+.ofrecido
+{
+    text-align: center;
+}
+.pie{
+    display: block ;
+    position: relative;
+    top: 125px;
+    bottom: 150px;
+    right: 250px;
+    left: 250px;
+}
+.pie-izquierdo {
+
+    width: 200px;
+    height: 50px;
+    padding: 10px 10px 10px 10px;
+    position: absolute;
+    bottom: 0;
+    display: flex;
+    align-items: center;
+    border margin-top:transparent;
+    list-style: none;
+}
